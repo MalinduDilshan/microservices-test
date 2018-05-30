@@ -16,6 +16,9 @@
     <modules>
         <module>auth-service</module>
         <module>employee-service</module>
+        <module>config-service</module>
+        <module>eureka-service</module>
+        <module>zuul-service</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
